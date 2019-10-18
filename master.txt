@@ -1,2 +1,2 @@
 This file is being edited on master.
-This is version A.
+This is version B.
