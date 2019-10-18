@@ -1,2 +1,2 @@
 This file is being edited by both master and feature.
-This is version A.
+This is version B (master's edit).
