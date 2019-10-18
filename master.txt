@@ -1,2 +1,3 @@
 This file is being edited by both master and feature.
+This is the line introduced in C by feature.
 This is the line introduced in A by master.
